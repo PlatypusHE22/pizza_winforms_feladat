@@ -1,0 +1,10 @@
+Margarita;1290;1690
+Hawaii;1390;1790
+Pepperoni;1490;1890
+Quattro Formaggi;1590;1990
+BBQ Chicken;1690;2090
+Vegetarian;1390;1790
+Mexican;1590;1990
+Seafood;1790;2190
+Calzone;1490;1890
+Diavola;1590;1990
